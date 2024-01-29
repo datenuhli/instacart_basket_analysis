@@ -1,8 +1,8 @@
 # Instacart Basket Analysis
 
-## Objective
-
 This is an exploratory analysis of an online grocery store data to derive insights for customer profiles and suggest strategies to improve marketing.
+
+## Objective
 
 You’re an analyst for an existing company, Instacart, an online grocery store
 that operates through an app. Instacart already has very good sales, but they
