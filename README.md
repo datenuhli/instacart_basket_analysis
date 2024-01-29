@@ -27,5 +27,5 @@ Organizing Python codes using Jupyter Notebooks inside Anaconda
 For this project, the following libraries where used:
 - pandas - for data analysis
 - seaborn - for visualizations
- [Visualization example](https://github.com/datenuhli/instacart_basket_analysis/blob/main/Instacart%20Basket%20Analysis/04%20Analysis/Visualizations/Mean_Prices_by_Customer_Profiles.png) 
+[Visualization example](https://github.com/datenuhli/instacart_basket_analysis/blob/main/Instacart%20Basket%20Analysis/04%20Analysis/Visualizations/Mean_Prices_by_Customer_Profiles.png) 
 
